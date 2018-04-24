@@ -1,8 +1,7 @@
 # Observatoire photographique des paysages
 Site internet de l'observatoire photographique des paysages.
-Le projet est porté par le Parc national de la Vanoise. Le site qui sera développé courant 2018 sera sous licence libre. Le code source sera disponible dans ce repository. La prestation de développement par la société Natural Solutions va débuter courant mai 2018.
 
-## Contexte en Vanoise
+## Contexte
 L'Observatoire photographique des paysages de Vanoise a été mis en place en 2006 pour suivre l'évolution
 des paysages au sein du Parc national de la Vanoise à travers des séries de photographies reconduites, sur
 des sites définis, selon le même cadrage. Les gardes-moniteurs assurent régulièrement les prises de vue.
@@ -13,5 +12,7 @@ sites photographiques, dont 103 sont encore suivis aujourd'hui par reconductions
 des données photographiques et textuelles pour l'ensemble des sites photos.
 Un nouveau site internet grand public va être mis en oeuvre pour partager au plus grand nombre le travail
 effectué depuis la création de l'Observatoire photographique des paysages.
+
+Le projet est porté par le Parc national de la Vanoise. Le site qui sera développé courant 2018 sera sous licence libre. Dans la même lignée que Geonature, le projet sera générique et disponible pour les autres parcs nationaux et pour d'autres structures depuis ce repository. La prestation de développement par la société Natural Solutions va débuter courant mai 2018.
 
 A suivre...
